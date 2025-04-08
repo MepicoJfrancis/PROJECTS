@@ -11,13 +11,13 @@
             line-height: 1.6;
             margin: 1.5;
             padding: 1.5;
-            background-color: #FAE8B4;
+            background-color: #8ffce1;
             color: #000000;
         }
 
         header {
-            background-color: #244414;
-            color: #ee8036;
+            background-color: #e014cf;
+            color: #36ee89;
             padding: 60px;
             text-align: center;
         }
@@ -227,7 +227,8 @@
     <footer id="contact">
         <h2>Contact Us</h2>
         <p>Email: <a href="mailto:jfrancistm211@gmail.com">jfrancistm211@gmail.com</a></p>
-        <p>&copy;2025 My Portfolio. All rights reserved.</p>
+        <p>&copy; 2025 My Portfolio. All rights reserved.</p>
     </footer>
 </body>
 </html>
+
