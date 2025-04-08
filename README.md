@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Our Webpage Portfolio</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
-   
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
@@ -76,6 +76,7 @@
     <footer id="contact">
         <h2>Contact Us</h2>
         <p>Email: <a href="mailto:jfrancistm211@gmail.com">jfrancistm211@gmail.com</a></p>
+        <P>Email: <a href="mailto:Ainjamesc@gmail.com">Ainjamesc@gmail.com</a></P>
         <p>&copy; 2025 My Portfolio. All rights reserved.</p>
     </footer>
 </body>
